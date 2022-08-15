@@ -1,8 +1,8 @@
-package me.dio.soccernews.data.remote;
+package com.luizadventure.soccernews.data.remote;
 
 import java.util.List;
 
-import me.dio.soccernews.domain.News;
+import com.luizadventure.soccernews.domain.News;
 import retrofit2.Call;
 import retrofit2.http.GET;
 

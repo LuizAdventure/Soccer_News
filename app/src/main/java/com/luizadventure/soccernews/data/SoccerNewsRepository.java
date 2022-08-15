@@ -1,10 +1,10 @@
-package me.dio.soccernews.data;
+package com.luizadventure.soccernews.data;
 
 import androidx.room.Room;
 
-import me.dio.soccernews.App;
-import me.dio.soccernews.data.local.SoccerNewsDb;
-import me.dio.soccernews.data.remote.SoccerNewsApi;
+import com.luizadventure.soccernews.App;
+import com.luizadventure.soccernews.data.local.SoccerNewsDb;
+import com.luizadventure.soccernews.data.remote.SoccerNewsApi;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 

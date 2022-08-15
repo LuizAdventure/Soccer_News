@@ -1,4 +1,4 @@
-package me.dio.soccernews;
+package com.luizadventure.soccernews;
 
 import org.junit.Test;
 

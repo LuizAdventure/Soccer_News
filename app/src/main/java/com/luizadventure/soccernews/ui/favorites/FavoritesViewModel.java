@@ -1,4 +1,4 @@
-package me.dio.soccernews.ui.favorites;
+package com.luizadventure.soccernews.ui.favorites;
 
 import android.os.AsyncTask;
 
@@ -7,8 +7,8 @@ import androidx.lifecycle.ViewModel;
 
 import java.util.List;
 
-import me.dio.soccernews.data.SoccerNewsRepository;
-import me.dio.soccernews.domain.News;
+import com.luizadventure.soccernews.data.SoccerNewsRepository;
+import com.luizadventure.soccernews.domain.News;
 
 public class FavoritesViewModel extends ViewModel {
 

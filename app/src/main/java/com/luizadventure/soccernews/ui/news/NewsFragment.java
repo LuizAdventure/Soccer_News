@@ -1,4 +1,4 @@
-package me.dio.soccernews.ui.news;
+package com.luizadventure.soccernews.ui.news;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,9 +12,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.google.android.material.snackbar.Snackbar;
 
-import me.dio.soccernews.R;
-import me.dio.soccernews.databinding.FragmentNewsBinding;
-import me.dio.soccernews.ui.adapters.NewsAdapter;
+import com.luizadventure.soccernews.R;
+import com.luizadventure.soccernews.databinding.FragmentNewsBinding;
+import com.luizadventure.soccernews.ui.adapters.NewsAdapter;
 
 public class NewsFragment extends Fragment {
 
